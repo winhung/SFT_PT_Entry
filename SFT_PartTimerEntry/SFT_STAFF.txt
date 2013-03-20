@@ -1,0 +1,10 @@
+DEPTDESCL	NAME	EMAIL	USERID
+Natural Sciences & Science Education (NSSE)	Sai Lin	sailinnaung@nie.edu.sg	SAILN
+Natural Sciences & Science Education (NSSE)	Sai Lin	sailinnaung@nie.edu.sg	SAILN
+Mathematics & Mathematics Education (MME)	Sai Lin Naung	sailinnaung@nie.edu.sg	SAILN
+Science & Mathematics Cluster	Choy Kwei Heong	kweiheong.choy@nie.edu.sg	khchoy
+Visual & Performing Arts (VPA)	Choy Kwei Heong	kweiheong.choy@nie.edu.sg	SAILN
+Natural Sciences & Science Education (NSSE)	Tan Edison	edison.tan@nie.edu.sg	YSETAN
+Mathematics & Mathematics Education (MME)	Ng Yih Farn	yihfarn.ng@nie.edu.sg	YFNG
+Mathematics & Mathematics Education (MME)	Hazel Aye	hninnu.aye@nie.edu.sg	HNAYE
+Mathematics & Mathematics Education (MME)	Megaman	xx.xxx@nie.edu.sg	xxxxx 
